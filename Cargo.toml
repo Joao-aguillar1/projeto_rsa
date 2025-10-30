@@ -3,7 +3,7 @@ name = "projeto_rsa"
 version = "0.1.0"
 edition = "2024"
 
-
 [dependencies]
-rsa = "0.9.6" 
-rand = "0.8.5"
+num-bigint = "0.4"
+num-traits = "0.2"
+rand = "0.8"
